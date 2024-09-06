@@ -1,6 +1,10 @@
 # API-REST
 Objetivo: Criar um sistema para disponibilização de uma API REST de gerenciamento de Pokémons e persistência de dados.
 
+# Dupla
+- Diego de Sousa Moreira
+- Gislan Souza Silva
+
 # Script de testes
 
 | GET
